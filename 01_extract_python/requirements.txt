@@ -1,0 +1,3 @@
+# Instalar os requisitos: pip install -r requirements.txt
+pandas
+requests
